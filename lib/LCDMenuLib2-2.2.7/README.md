@@ -1,5 +1,3 @@
-Fork LCDMenuLib2 (LCDML) with PlatformIO Support
-
 Arduino LCDMenuLib2 (LCDML) with layers for any LCD Type (Row Displays, Graphic Displays, Console output)
 =================================================================
 
